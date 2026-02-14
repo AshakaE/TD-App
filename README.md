@@ -1,6 +1,6 @@
-# HMCTS Task Manager
+# Task Manager
 
-A full-stack task management application for HMCTS caseworkers, built with **Node.js/Express** (backend) and **React** (frontend).
+A full-stack task management application for caseworkers, built with **Node.js/Express** (backend) and **React** (frontend).
 
 ## Features
 

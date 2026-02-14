@@ -78,7 +78,7 @@ function App() {
     return (
         <div className="app">
             <header className="app-header">
-                <h1>HMCTS Task Manager</h1>
+                <h1>Task Manager</h1>
                 <p>Manage caseworker tasks efficiently</p>
             </header>
 
